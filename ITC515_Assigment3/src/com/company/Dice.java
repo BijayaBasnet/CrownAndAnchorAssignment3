@@ -8,6 +8,8 @@ public class Dice {
 	}
 	
 	public DiceValue getValue() {
+        //change made here
+        this.value=DiceValue.getRandom();
 		return value;
 	}
 
