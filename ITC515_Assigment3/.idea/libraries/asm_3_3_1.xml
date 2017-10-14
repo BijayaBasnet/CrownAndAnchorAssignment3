@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="asm-3.3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/asm-3.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/cglib-2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/easymock-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/junit4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/objenesis-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

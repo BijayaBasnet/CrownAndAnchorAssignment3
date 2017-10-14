@@ -1,3 +1,4 @@
+package com.company;
 public class Dice {
 			
 	private DiceValue value;
